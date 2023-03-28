@@ -1,0 +1,16 @@
+body {
+    background: #cecece;
+}
+
+p {
+    color: rgb(34, 34, 34);
+}
+
+.foto-principal {
+    width: 250px;
+    border-width: 10px;
+    border-style: dashed solid double dotted;
+    border-color: #000000;
+    border-radius: 30%;
+
+}
